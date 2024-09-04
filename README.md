@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Judith Michel
+I'm a Computer Engibeering student
 
 <!--
 **JudithMichel/JudithMichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
